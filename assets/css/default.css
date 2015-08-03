@@ -1,0 +1,15 @@
+/* 
+    Document   : default
+    Created on : 05/04/2013, 19:06:22
+    Author     : Reneé Rojas <reneerojas@gmail.com>
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body {
+    padding-top: 60px;
+} 
